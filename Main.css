@@ -29,3 +29,9 @@ h1{
     flex-direction: column;
 }
 
+.Imgs {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
